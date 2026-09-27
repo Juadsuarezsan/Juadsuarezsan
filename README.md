@@ -83,22 +83,6 @@ Nine production-grade AI engineering case studies. Each one is dockerized, trace
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Juadsuarezsan&layout=compact&hide_border=true&langs_count=8&title_color=00a884&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" width="60%"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00a884/Juadsuarezsan?v=2" alt="contribution calendar" width="100%"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juadsuarezsan/Juadsuarezsan/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/Juadsuarezsan/Juadsuarezsan/output/github-snake.svg" alt="contribution snake" width="100%"/>
-  </picture>
-</p>
 
 ---
 
