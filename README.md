@@ -90,10 +90,6 @@ Nine production-grade AI engineering case studies. Each one is dockerized, trace
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00a884/Juadsuarezsan?v=2" alt="contribution calendar" width="100%"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juadsuarezsan/Juadsuarezsan/output/github-snake-dark.svg"/>
     <img src="https://raw.githubusercontent.com/Juadsuarezsan/Juadsuarezsan/output/github-snake.svg" alt="contribution snake" width="100%"/>
