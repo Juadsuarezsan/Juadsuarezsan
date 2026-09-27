@@ -86,12 +86,7 @@ Nine production-grade AI engineering case studies. Each one is dockerized, trace
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Juadsuarezsan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00a884&icon_color=2dd4a7&text_color=c9d1d9&bg_color=0d1117&ring_color=00a884" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Juadsuarezsan&layout=compact&hide_border=true&langs_count=8&title_color=00a884&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Juadsuarezsan&theme=dark&hide_border=true&background=0d1117&ring=00a884&fire=f0b429&currStreakLabel=00a884&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" height="170"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Juadsuarezsan&layout=compact&hide_border=true&langs_count=8&title_color=00a884&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" width="60%"/>
 </p>
 
 <p align="center">
