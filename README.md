@@ -86,8 +86,8 @@ Nine production-grade AI engineering case studies. Each one is dockerized, trace
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juadsuarezsan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00a884&icon_color=2dd4a7&text_color=c9d1d9&bg_color=0d1117&ring_color=00a884" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juadsuarezsan&layout=compact&hide_border=true&langs_count=8&title_color=00a884&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" height="170"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Juadsuarezsan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00a884&icon_color=2dd4a7&text_color=c9d1d9&bg_color=0d1117&ring_color=00a884" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Juadsuarezsan&layout=compact&hide_border=true&langs_count=8&title_color=00a884&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" height="170"/>
 </p>
 
 <p align="center">
@@ -95,11 +95,14 @@ Nine production-grade AI engineering case studies. Each one is dockerized, trace
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juadsuarezsan&bg_color=0d1117&color=c9d1d9&line=00a884&point=2dd4a7&area=true&area_color=00a884&hide_border=true&custom_title=Contribution%20activity" alt="activity graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/00a884/Juadsuarezsan" alt="contribution calendar" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juadsuarezsan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juadsuarezsan/Juadsuarezsan/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Juadsuarezsan/Juadsuarezsan/output/github-snake.svg" alt="contribution snake" width="100%"/>
+  </picture>
 </p>
 
 ---
