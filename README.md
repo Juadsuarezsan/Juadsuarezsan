@@ -1,9 +1,10 @@
-<p align="center"><img src="foto.png" width="150" alt="Juan David Suárez Sánchez"/></p>
-
-<h1 align="center">Hi, I'm Juan David Suárez Sánchez 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075e54,50:00a884,100:2dd4a7&height=200&section=header&text=Juan%20David%20Su%C3%A1rez%20S%C3%A1nchez&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%C2%B7%20Physicist-Mathematician&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <p align="center">
-  <b>Full-Stack AI Engineer · Physicist-Mathematician</b><br/>
+  <a href="https://juadsuarezsan.github.io/ai-portfolio/"><img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=22&duration=3200&pause=900&color=00A884&center=true&vCenter=true&width=720&lines=I+build+AI+systems+that+hold+up+in+production;RAG+%C2%B7+Agents+%C2%B7+MCP+%C2%B7+LangGraph+%C2%B7+Claude+Code;Physics+and+mathematics+behind+every+model;Nine+dockerized%2C+traced+and+evaluated+case+studies" alt="typing"/></a>
+</p>
+
+<p align="center">
   LLMs · Generative AI · RAG · Agents · MCP · LangGraph · LangChain · Claude Code · FastAPI · Cloud
 </p>
 
@@ -11,6 +12,7 @@
   <a href="https://juadsuarezsan.github.io/ai-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00a884?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/juan-david-suarez-sanchez-31ab281b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:juadsuarezsan@unal.edu.co"><img src="https://img.shields.io/badge/Email-111b21?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Juadsuarezsan&color=00a884&style=for-the-badge&label=Visitors" alt="visitors"/>
 </p>
 
 ---
@@ -84,8 +86,20 @@ Nine production-grade AI engineering case studies. Each one is dockerized, trace
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juadsuarezsan&show_icons=true&hide_border=true&title_color=0f766e&icon_color=00a884&text_color=54655d&bg_color=ffffff" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juadsuarezsan&layout=compact&hide_border=true&title_color=0f766e&text_color=54655d&bg_color=ffffff" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Juadsuarezsan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00a884&icon_color=2dd4a7&text_color=c9d1d9&bg_color=0d1117&ring_color=00a884" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juadsuarezsan&layout=compact&hide_border=true&langs_count=8&title_color=00a884&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Juadsuarezsan&theme=dark&hide_border=true&background=0d1117&ring=00a884&fire=f0b429&currStreakLabel=00a884&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juadsuarezsan&bg_color=0d1117&color=c9d1d9&line=00a884&point=2dd4a7&area=true&area_color=00a884&hide_border=true&custom_title=Contribution%20activity" alt="activity graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Juadsuarezsan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
 </p>
 
 ---
@@ -94,3 +108,5 @@ Nine production-grade AI engineering case studies. Each one is dockerized, trace
   Open to <b>Full-Stack AI Engineer</b> and <b>AI Platform Engineer</b> roles · remote · EU / USA<br/>
   <a href="https://juadsuarezsan.github.io/ai-portfolio/#contact">Let's build something that holds up in production →</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4a7,50:00a884,100:075e54&height=110&section=footer" width="100%" alt="footer"/>
