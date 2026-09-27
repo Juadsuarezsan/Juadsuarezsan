@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/Juadsuarezsan/ai-portfolio/main/assets/foto.png" width="150" alt="Juan David Suárez Sánchez"/></p>
+
 <h1 align="center">Hi, I'm Juan David Suárez Sánchez 👋</h1>
 
 <p align="center">
