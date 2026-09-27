@@ -95,7 +95,7 @@ Nine production-grade AI engineering case studies. Each one is dockerized, trace
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00a884/Juadsuarezsan" alt="contribution calendar" width="100%"/>
+  <img src="https://ghchart.rshah.org/00a884/Juadsuarezsan?v=2" alt="contribution calendar" width="100%"/>
 </p>
 
 <p align="center">
